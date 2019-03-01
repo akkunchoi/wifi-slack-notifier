@@ -1,0 +1,17 @@
+{
+  "token": "xxxxxxxx",
+  "spots": [
+    {
+      "id": "home",
+      "ssid": "my_wifi_ssid",
+      "text": "arrived at home",
+      "channel": "#my_channel",
+      "profile": "{\"status_emoji\": \":house_with_garden:\"}"
+    },
+    {
+      "id": "work",
+      "ssid": "work_ssid",
+      "profile": "{\"status_emoji\": \":sushi:\"}"
+    }
+  ]
+}
